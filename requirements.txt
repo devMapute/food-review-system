@@ -1,0 +1,3 @@
+tkcalendar
+mysql-connector-python
+bcrypt
